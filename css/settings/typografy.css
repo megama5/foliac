@@ -1,0 +1,30 @@
+/* Lato -------------------------------------------*/
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+/* font-family: 'Lato', sans-serif; */
+/* --------------------------------------------Lato*/
+
+@font-face {
+    font-family:'Slim Joe';
+    src: url('../../fonts/fontie-package/SlimJoe.eot');
+		src: url('../../fonts/fontie-package/SlimJoe.eot?#iefix') format('embedded-opentype'),
+		url('../../fonts/fontie-package/SlimJoe.woff2') format('woff2'),
+		url('../../fonts/fontie-package/SlimJoe.woff') format('woff'),
+		url('../../fonts/fontie-package/SlimJoe.svg#SlimJoe') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-00BF;
+}
+
+@font-face {
+    font-family:'Big John';
+    src: url('../../fonts/fontie-package/BigJohn.eot');
+	src: url('../../fonts/fontie-package/BigJohn.eot?#iefix') format('embedded-opentype'),
+		url('../../fonts/fontie-package/BigJohn.woff2') format('woff2'),
+		url('../../fonts/fontie-package/BigJohn.woff') format('woff'),
+		url('../../fonts/fontie-package/BigJohn.svg#BigJohn') format('svg');
+    font-weight: 400;
+    font-style: normal;
+    font-stretch: normal;
+    unicode-range: U+0020-00BF;
+}
