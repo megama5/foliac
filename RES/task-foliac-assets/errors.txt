@@ -1,1 +1,1 @@
-[2017-08-07 19:25:26] layer "Copyright © 2015 by beneggen - www.beneggen.fr": Unsupported extension: fr
+[2017-08-14 19:38:01] layer "Copyright © 2015 by beneggen - www.beneggen.fr": Unsupported extension: fr
