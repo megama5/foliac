@@ -4,7 +4,10 @@ Settings
 @import url(settings/normalize.css);
 @import url(settings/typography.css);
 @import url(settings/general.css);
-
+/*---------------------------------------
+plugin
+----------------------------------------*/
+@import url(../plugin/Font-Awesome/css/font-awesome.min.css);
 /*---------------------------------------
 Parts
 ----------------------------------------*/

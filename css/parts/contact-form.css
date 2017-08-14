@@ -55,6 +55,15 @@
 	padding-right: 15px;
 }
 
+.form__name:before {
+  content: "\f007";
+  font-family: "FontAwesome";
+	font-size: 22px;
+	color: #fff;
+	text-align: center;
+	line-height: 50px;
+}
+
 .form__email{
 	float: right;
 	padding-left: 15px;
